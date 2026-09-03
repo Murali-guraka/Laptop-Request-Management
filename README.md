@@ -41,6 +41,10 @@ Employee submits Laptop Request
        Manager Approval
           ↙       ↘
      Approved     Rejected
+        ↓            ↓
+   Update Status  Update Status
+        ↓            ↓
+   Email Notice   Email Notice
 ```
 ## Screenshots
 
@@ -88,7 +92,4 @@ Employee submits Laptop Request
 
 ### 15. Flow Designer
 ![Flow Designer](flow-designer.png)
-        ↓            ↓
-   Update Status  Update Status
-        ↓            ↓
-   Email Notice   Email Notice
+ 
