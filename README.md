@@ -6,6 +6,31 @@ Laptop Request Management is a custom ServiceNow scoped application designed to 
 
 The application demonstrates ServiceNow application development, role-based security, backend validation, workflow automation, manager approvals, email notifications, Service Catalog integration, and Update Set deployment.
 
+## Demo
+
+This project demonstrates an end-to-end laptop request management process in ServiceNow:
+
+1. Employee submits a laptop request.
+2. System checks for duplicate requests.
+3. Request is submitted for manager approval.
+4. Manager approves or rejects the request.
+5. Request status is updated automatically.
+6. Email notifications are triggered.
+7. Role-based access is enforced using ACLs.
+
+## Technologies Used
+
+- ServiceNow
+- Scoped Application
+- Flow Designer
+- Business Rules
+- Access Control Lists (ACLs)
+- Service Catalog
+- Record Producer
+- Approval Management
+- JavaScript
+- Update Sets
+
 ## Application
 
 - **Application:** Project Application
