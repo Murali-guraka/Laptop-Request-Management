@@ -74,44 +74,49 @@ Employee submits Laptop Request
 ## Screenshots
 
 ### 1. Project Application
-![Project Application](Project-application.png)
+![Project Application](./screenshots/Project-application.png)
 
 ### 2. Laptop Request Form
-![Laptop Request Form](laptop-request-form.png)
+![Laptop Request Form](./screenshots/laptop-request-form.png)
 
 ### 3. Employee Request
-![Employee Request](employee-request.png)
+![Employee Request](./screenshots/employee-request.png)
 
 ### 4. Employee Role
-![Employee Role](it-employee-role.png)
+![Employee Role](./screenshots/it-employee-role.png)
 
 ### 5. Manager Role
-![Manager Role](it-manager-role.png)
+![Manager Role](./screenshots/it-manager-role.png)
 
 ### 6. ACL - Employee Create Access
-![ACL Create Employee](acl-create-employee.png)
+![ACL Create Employee](./screenshots/acl-create-employee.png)
 
 ### 7. ACL - Manager Read Access
-![ACL Read Manager](acl-read-manager.png)
+![ACL Read Manager](./screenshots/acl-read-manager.png)
 
 ### 8. Approval Relationship
-![Approval Relationship](approval-relationship.png)
+![Approval Relationship](./screenshots/approval-relationship.png)
 
 ### 9. Business Rule - Duplicate Request
-![Business Rule](business-rule-duplicate-request.png)
+![Business Rule](./screenshots/business-rule-duplicate-request.png)
 
 ### 10. Duplicate Request Blocked
-![Duplicate Request Blocked](duplicate-request-blocked.png)
+![Duplicate Request Blocked](./screenshots/duplicate-request-blocked.png)
 
 ### 11. Record Producer
-![Record Producer](record-producer.png)
+![Record Producer](./screenshots/record-producer.png)
 
 ### 12. Employee Service Catalog
-![Employee Service Catalog](employee-service-catalog.png)
+![Employee Service Catalog](./screenshots/employee-service-catalog.png)
 
 ### 13. Manager Approval
-![Manager Approval](manager-approval.png)
+![Manager Approval](./screenshots/manager-approval.png)
 
+### 14. Approval Result
+![Approval Result](./screenshots/approval-result.png)
+
+### 15. Flow Designer
+![Flow Designer](./screenshots/flow-designer.png)
 ### 14. Approval Result
 ![Approval Result](approval-result.png)
 
